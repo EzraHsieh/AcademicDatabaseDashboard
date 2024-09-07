@@ -8,7 +8,7 @@ The Academic Faculty and Research Insight Dashboard is designed to support acade
 [Link to video demo](https://mediaspace.illinois.edu/media/t/1_la8cbdwo)
 
 ## Installation
-This project utilizes the AcadmeicWorld datasets stored in three copies in MySQL, MongoDB, and Neo4j database systems. Maje sure to have python and necessary dependencies installed. 
+This project utilizes the AcadmeicWorld datasets, provided by Professor Kevin Chang and UIUC's Computer Science department, stored in three different copies in MySQL, MongoDB, and Neo4j database systems. Maje sure to have python and necessary dependencies installed. 
 
 ## Usage
 1. Run the application by executing `python app.py` in your terminal. 
